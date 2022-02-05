@@ -1,0 +1,1 @@
+a múlórán elkészített JavaScript alkalmazás, amivel autokat tudunk megjeleníteni.
